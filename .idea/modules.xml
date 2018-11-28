@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringBootAngularHTML5/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/SpringBootAngularHTML5/.mvn/.mvn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-sdk/java-sdk.iml" filepath="$PROJECT_DIR$/java-sdk/java-sdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/speech-demo/rest-api-asr/java/rest-api-asr.iml" filepath="$PROJECT_DIR$/speech-demo/rest-api-asr/java/rest-api-asr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/speech-demo/rest-api-tts/java/rest-api-tts.iml" filepath="$PROJECT_DIR$/speech-demo/rest-api-tts/java/rest-api-tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootAngularHTML5/springbootangularhtml5.iml" filepath="$PROJECT_DIR$/SpringBootAngularHTML5/springbootangularhtml5.iml" />
     </modules>
   </component>
 </project>
